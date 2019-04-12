@@ -1,5 +1,5 @@
 _repo: The-Ingoldsby-Legends-or-Mirth-and-Marvels_59236
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Leech, John
@@ -19,12 +19,17 @@ contributor:
     deathdate: 1856
     gutenberg_agent_id: '9022'
     url: http://www.gutenberg.org/2009/agents/9022
+covers:
+- cover_type: archival
+  image_path: 59236-h/images/cover.jpg
 creator:
   author:
     agent_name: Ingoldsby, Thomas
     gutenberg_agent_id: '50353'
     url: http://www.gutenberg.org/2009/agents/50353
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59236#The-Ingoldsby-Legends-or-Mirth-and-Marvels
 gutenberg_issued: '2019-04-09'
 gutenberg_type: Text
 identifiers:
